@@ -1,0 +1,3 @@
+[submodule "revng"]
+	path = revng
+	url = https://github.com/revng/revng.git
